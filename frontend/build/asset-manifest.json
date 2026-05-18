@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd79d122.css",
+    "main.js": "/static/js/main.d2328182.js",
+    "static/js/239.0722fc86.chunk.js": "/static/js/239.0722fc86.chunk.js",
+    "static/js/213.fb539dd7.chunk.js": "/static/js/213.fb539dd7.chunk.js",
+    "static/js/732.dbe4b209.chunk.js": "/static/js/732.dbe4b209.chunk.js",
+    "static/media/Video.mp4": "/static/media/Video.825920facaaeeb57b41e.mp4",
+    "static/media/Background image.png": "/static/media/Background image.115a44bc55edee652bfc.png",
+    "static/media/Finlite logo.png": "/static/media/Finlite logo.ab62496b936b1166ff4d.png",
+    "static/media/FinLiteLogo.png": "/static/media/FinLiteLogo.16136693c895a6b225ab.png",
+    "index.html": "/index.html",
+    "main.bd79d122.css.map": "/static/css/main.bd79d122.css.map",
+    "main.d2328182.js.map": "/static/js/main.d2328182.js.map",
+    "239.0722fc86.chunk.js.map": "/static/js/239.0722fc86.chunk.js.map",
+    "213.fb539dd7.chunk.js.map": "/static/js/213.fb539dd7.chunk.js.map",
+    "732.dbe4b209.chunk.js.map": "/static/js/732.dbe4b209.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd79d122.css",
+    "static/js/main.d2328182.js"
+  ]
+}
